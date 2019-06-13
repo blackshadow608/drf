@@ -1,5 +1,9 @@
 # drf
 
+**About**
+
+Service for convert html to pdf based on Django and djangorestframework
+
 **Deployment**
 
 Clone repo
